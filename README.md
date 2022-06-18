@@ -1,11 +1,12 @@
 ### Hi there 👋
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  
-  🏆GitHub Trophies:
- [![trophy](https://github-profile-trophy.vercel.app/?astroanastariq=ryo-ma&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
+<div id="body" align="left">
+🏆GitHub Trophies:
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
 
 <!--
 **AstroAnasTariq/AstroAnasTariq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
