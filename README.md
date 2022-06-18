@@ -2,7 +2,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
-  [![trophy](https://github-profile-trophy.vercel.app/?astroanastariq=ryo-ma&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+  🏆GitHub Trophies:
+  [![trophy]([https://github-profile-trophy.vercel.app/?astroanastariq=ryo-ma&theme=nord](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=nord))](https://github.com/ryo-ma/github-profile-trophy)
+
 
 </div>
 
