@@ -4,8 +4,18 @@
   
   🏆GitHub Trophies:
   [![trophy]([https://github-profile-trophy.vercel.app/?astroanastariq=ryo-ma&theme=nord](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=nord))](https://github.com/ryo-ma/github-profile-trophy)
+</div>
 
-
+<div id="badges">
+  <a href="[your-linkedin-URL](https://www.linkedin.com/in/astroanastariq/)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="[your-youtube-URL](https://www.youtube.com/channel/UCND9qhJTrxU9SFjzhTH3z3g)">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="[your-twitter-URL](https://twitter.com/AstroAnasTariq)">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
 </div>
 
 <!--
