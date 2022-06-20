@@ -21,8 +21,8 @@
 ---
 
 ### :man_technologist: About Me:
-  I am an Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+  I am an Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
+- :telescope: I’m working as an Android Developer and contributing for building mobile applications.
 
 - :seedling: Exploring Technical Content Writing.
 
