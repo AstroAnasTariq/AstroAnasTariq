@@ -41,5 +41,5 @@ I'm Anas, I'm an Android Developer, and Content Creator. I'm interested in Tech,
 
 ---
 
-### 🔥: My Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AstroAnasTariq&theme=dark&background=000000)](https://git.io/streak-stats)
+### 🔥 My Stats:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AstroAnasTariq&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
