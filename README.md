@@ -1,6 +1,5 @@
 <div id="header" align="center">
- <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
- 
+###Hey there, I'm Anas <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"
   <div id="badges">
   <a href="https://www.linkedin.com/in/astroanastariq/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -9,14 +8,10 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
      </a>
 </div>
-  
-  <div align="center">
-  <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="600" height="300"/>
-</div>
 ---
 
 ### :man_technologist: About Me:
-  I am an Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
+  I am an Android Developer  width="30"> from Egypt.
 - :telescope: I’m working as an Android Developer and contributing for building mobile applications.
 
 - :seedling: Exploring Technical Content Writing.
