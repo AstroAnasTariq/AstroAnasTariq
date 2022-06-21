@@ -38,3 +38,8 @@ I'm Anas, I'm an Android Developer, and Content Creator. I'm interested in Tech,
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Markdown-Dark.svg" title="Markdown" alt="Markdown" width="40" height="40"/>
 </div>
+
+---
+
+### 🔥: My Stats:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AstroAnasTariq&theme=dark&background=000000)](https://git.io/streak-stats)
