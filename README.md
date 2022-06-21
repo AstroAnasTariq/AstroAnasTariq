@@ -1,8 +1,9 @@
-<div>
-Hey There! 👋\
-I'm Anas, I'm an Android Developer, Content Creator. I'm interested in Tech, Development, and Science Stuff.
+<div> id="header"
+Hey There! 👋
 </div>
-                                                                                                                       
+
+I'm Anas, I'm an Android Developer, Content Creator. I'm interested in Tech, Development, and Science Stuff.
+                                                                                                                 
 ### :hammer_and_wrench: Languages and Tools:
 <div>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
