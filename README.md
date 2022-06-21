@@ -1,6 +1,6 @@
 # Hey There! 👋
 
-I'm Anas, I'm an Android Developer, Content Creator. I'm interested in Tech, Development, and Science Stuff.
+I'm Anas, I'm an Android Developer, and Content Creator. I'm interested in Tech, Development, and Science Stuff.
                                                                                                                  
 ### :hammer_and_wrench: Languages and Tools:
 <div>
