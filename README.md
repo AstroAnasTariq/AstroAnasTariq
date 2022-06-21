@@ -8,6 +8,8 @@
     <a href="https://twitter.com/AstroAnasTariq">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+     </a>
+
 </div>
     <img src="https://komarev.com/ghpvc/?username=AstroAnasTariq&style=flat-square&color=blue" alt=""/>
     <h1>
