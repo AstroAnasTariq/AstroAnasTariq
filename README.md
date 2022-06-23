@@ -1,8 +1,4 @@
 # Hey There! 👋
-<a href="https://www.linkedin.com/in/astroanastariq/">
-  <img height="30" align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg"/>
-</a>
-
 
 I'm Anas, I'm an Android Developer, and Content Creator. I'm interested in Tech, Development, and Science Stuff.
                                                                                                                  
@@ -50,3 +46,12 @@ I'm Anas, I'm an Android Developer, and Content Creator. I'm interested in Tech,
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AstroAnasTariq&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AstroAnasTariq&theme=nord&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 📥: Contact me:
+<a href="https://www.linkedin.com/in/astroanastariq/">
+  <img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg"/>
+</a>
+
+<a href="https://twitter.com/AstroAnasTariq">
+  <img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg"/>
+</a>
