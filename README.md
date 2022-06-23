@@ -47,7 +47,7 @@ I'm Anas, I'm an Android Developer, and Content Creator. I'm interested in Tech,
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AstroAnasTariq&theme=nord&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-### 📥: Contact me:
+### 📥 Contact me:
 <a href="https://www.linkedin.com/in/astroanastariq/">
   <img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg"/>
 </a>
