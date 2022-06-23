@@ -1,6 +1,6 @@
 # Hey There! 👋
-<a align="center" href="https://www.linkedin.com/in/astroanastariq/">
-  <img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg"/>
+<a href="https://www.linkedin.com/in/astroanastariq/">
+  <img height="30" align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg"/>
 </a>
 
 
