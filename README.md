@@ -1,7 +1,7 @@
-# Hey There! 👋
-<a href="https://www.linkedin.com/in/astroanastariq/">
-  <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg"/>
+# Hey There! 👋<a href="https://www.linkedin.com/in/astroanastariq/">
+  <img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg"/>
 </a>
+
 
 I'm Anas, I'm an Android Developer, and Content Creator. I'm interested in Tech, Development, and Science Stuff.
                                                                                                                  
