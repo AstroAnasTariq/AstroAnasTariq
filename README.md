@@ -49,9 +49,13 @@ I'm Anas, I'm an Android Developer, and Content Creator. I'm interested in Tech,
 
 ### 📥 Contact me:
 <a href="https://www.linkedin.com/in/astroanastariq/">
-  <img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg"/>
+  <img height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg"/>
 </a>
 
 <a href="https://twitter.com/AstroAnasTariq">
   <img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg"/>
+</a>
+
+<a href="https://www.instagram.com/astroanastariq/">
+  <img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg"/>
 </a>
