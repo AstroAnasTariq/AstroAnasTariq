@@ -59,3 +59,7 @@ I'm Anas, I'm an Android Developer, and Content Creator. I'm interested in Tech,
 <a href="https://www.instagram.com/astroanastariq/">
   <img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg"/>
 </a>
+
+<a href="https://stackoverflow.com/users/12288723/anas-tariq">
+  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png"/>
+</a>
