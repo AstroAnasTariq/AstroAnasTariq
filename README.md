@@ -67,3 +67,7 @@ I'm Anas, an Android Developer, and Content Creator. I'm interested in Tech, Dev
 <a href="https://www.hackerrank.com/AstroAnasTariq">
   <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/880px-HackerRank_Icon-1000px.png"/>
 </a>
+
+<a href="https://leetcode.com/AstroAnasTariq/">
+  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"/>
+</a>
