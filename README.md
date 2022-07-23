@@ -61,7 +61,7 @@ I'm Anas, an Android Developer, and Content Creator. I'm interested in Tech, Dev
 </a>
 
 <a href="https://stackoverflow.com/users/12288723/anas-tariq">
-  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png"/>
+  <img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Dark.svg"/>
 </a>
 
 <a href="https://www.hackerrank.com/AstroAnasTariq">
