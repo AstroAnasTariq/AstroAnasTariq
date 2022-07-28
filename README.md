@@ -1,4 +1,4 @@
-# Hey There! 👋
+# Hello World! 👋
 
 I'm Anas, an Android Developer, and Content Creator. I'm interested in Tech, Development, and Science Stuff.
                                                                                                                  
