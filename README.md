@@ -30,6 +30,7 @@ I'm Anas, an Android Developer, and Content Creator. I'm interested in Tech, Dev
 
 ### 🚧 Upcoming:
 <div>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" title="FireBase" alt="FireBase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Dark.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
