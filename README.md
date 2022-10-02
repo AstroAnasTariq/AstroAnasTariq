@@ -1,6 +1,6 @@
 # Hello World! 👋
 
-I'm a content creator and a self-taught Android Developer. I'm interested in Tech, Development, and Science Stuff.
+I'm a content creator and a self-taught **Android Developer**. I'm interested in Tech, Development, and Science Stuff.
                                                                                                                  
 ### :hammer_and_wrench: Languages and Tools:
 <div>
